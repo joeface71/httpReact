@@ -1,4 +1,5 @@
 import React from "react";
+//import { withRouter } from 'react-router-dom' //makes component route aware--gets same props as nearest loaded route
 
 import "./Post.css";
 
